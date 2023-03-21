@@ -1,5 +1,7 @@
 <h2>🎈 About me ::</h2>
-<img src="https://media.giphy.com/media/QAU5Bd0Js9w3arZ4UD/giphy.gif" align="center" style="width: 100%; max-width: 100%;" data-canonical-src="https://rishavanand.github.io/static/images/greetings.gif" data-target="animated-image.originalImage">
+<div align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="[[https://camo.githubusercontent.com/5d4d5166e6ab07439d056632758d27f4236d8bc0f2340589be71f1adb6c79b04/68747470733a2f2f7777772e76696574687068616d2e636f6d2f68656c6c6f2d776f726c642f66656174757265642d696d6167652e706e67](https://media.giphy.com/media/QAU5Bd0Js9w3arZ4UD/giphy.gif)](https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif)"><img src="https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif" align="center" style="width: 100%; max-width: 100%;" data-canonical-src="https://www.viethpham.com/hello-world/featured-image.png"></a>
+</div>
 <h3 align="center">I'm Meathanon Banjob, Beginner Developer of Coding 👻✨</h3>
 
 <h2>🖥️ Tech Stack ::</h2>
