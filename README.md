@@ -1,4 +1,6 @@
-### I'm Meathanon Banjob, Beginner Developer of Coding 👻✨
+<h2>🎈 About me ::</h2>
+<img src="https://media.giphy.com/media/QAU5Bd0Js9w3arZ4UD/giphy.gif" align="center" style="width: 100%; max-width: 100%;" data-canonical-src="https://rishavanand.github.io/static/images/greetings.gif" data-target="animated-image.originalImage">
+<h3 align="center">I'm Meathanon Banjob, Beginner Developer of Coding 👻✨</h3>
 
 <!--
 **meathanon/meathanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
